@@ -1,7 +1,8 @@
 # Synthetic GA search tool
 
 This code is based on @bkampsch's synthga tool. I've added changes such that it now performs
-at 3-10x the amount of its/sec.
+at 3-10x the amount of its/sec. If you find a synthetic GA, please share that you've used this
+tool. Good luck!
 
 # Quickstart
 
